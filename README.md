@@ -28,5 +28,6 @@ or using the vector form:
 
 ```r
 install.pacakges(c("dendextend","knitr","ggdendro","ggplot2","randomForest",
-                    "caret","boot","statip","sm", "kableExtra","formatR","reshape","pROC","stats"))
+                    "caret","boot","statip","sm", "kableExtra","formatR","reshape",
+                    "pROC","stats"))
 ```
