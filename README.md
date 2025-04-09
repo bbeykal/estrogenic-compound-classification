@@ -67,6 +67,6 @@ Source `Project4_Analyze_v5.r` in the R Console. This will automatically do the 
     - Feature Density Plots
    
 ## Final Notes :pencil:
-The html RMarkdown of the original analysis can be found in this repository. This html file documents the session information with the specific versions of the R packages used in the analysis. 
+The html RMarkdown of the original analysis can be found in this repository or view on [Texas A&M repository](https://parametric.tamu.edu/research/Onel_etAl_2019_Rmarkdown.html). This html file documents the session information with the specific versions of the R packages used in the analysis. 
 
 Common errors faced running the codes: the packages or directories not found. Make sure the right pacakages are installed and the directories have the correct names.
