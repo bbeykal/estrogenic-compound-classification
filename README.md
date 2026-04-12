@@ -1,7 +1,6 @@
 # Classification of estrogenic compounds by coupling high content analysis and machine learning algorithms 
 
-<a href="https://doi.org/10.5281/zenodo.19156244"><img src="https://zenodo.org/badge/952119154.svg" alt="DOI"></a>
-
+<a href="https://doi.org/10.5281/zenodo.19156245"><img src="https://zenodo.org/badge/1177286502.svg" alt="DOI"></a>
 
 This repository contains the supplementary R Codes used in the analysis presented in the following research article:
 
